@@ -6,4 +6,5 @@
 npm install express
 npm install exceljs
 npm install bcryptjs
+npm install cors
 ```
